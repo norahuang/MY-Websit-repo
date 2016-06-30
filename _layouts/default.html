@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Nora Huang</title>
-<!-- link to main stylesheet -->
+<title>{{ page.title }}</title>
+
 <link rel="stylesheet" type="text/css" href="/css/main.css">
+
 </head>
+
+
 <body>
 	<nav>
 		<ul>
@@ -14,15 +17,8 @@
 			<li><a href="/blog">Blog</a></li>
 		</ul>
 	</nav>
-	<div class="container">
-		<div class="blurb">
-			<h1>Nora Huang</h1>
-			<p>I was a software designer in Ericsson, Nortel and ZTE.</p>
-			<p>Now I am a master student in University of Victoria</p>
-		</div>
-		<!-- /.blurb -->
-	</div>
-	<!-- /.container -->
+	<div class="container">{{ content }}</div>
+
 	<footer>
 		<ul>
 			<li><a href="mailto:norahuangsun@@gmail.com">email</a></li>
@@ -34,5 +30,5 @@
 		</ul>
 	</footer>
 </body>
-</html>
 
+</html>
