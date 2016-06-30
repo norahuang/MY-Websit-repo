@@ -1,3 +1,3 @@
-# hello-world
-This is a repo for practice.
-branch pratice
+# Website repo
+This is a repo for my own website.
+
