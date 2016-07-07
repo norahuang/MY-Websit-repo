@@ -5,7 +5,7 @@ date:   2016-07-07 12:03:30 -0700
 categories: Technology
 ---
 
-Setting up your own distributed system
+<p>Setting up your own distributed system
 I use virtual machines to setup my own distributed system.
 Components of this example are listed as below. You can choose other components as
 to your preference.
@@ -73,14 +73,5 @@ as the kjv12.txt file, organize them in below structure will make things easier
 go run wc.go master kjv12.txt ipaddressOfmaster:7777
 14. on workers
 go run wc.go worker ipaddressOfmaster:7777 ipaddressOfthisWorker:portyoulike
-Then you can see the result….
-
-<p>When I decided to have my own website, I do a little research about all website platform providers. After filtering, there are three for me: <a href="http://www.simplesite.com/">simplesite</a>, <a href="https://wordpress.com/">wordpress</a> and <a href="https://github.com/">github</a>.</p>
-
-<p>And finally I chose github for several reasons:</p>
-<p>1. It can refer directly to the projects and material I store on website</p>
-<p>2. I can write my own html file which give me a learning opportunity</p>
-<p>3. It compile to the way I am working such as using eclispe, terminal and git to manage the website project.</p>
-
-<P>Follow the <a href="http://jmcglone.com/guides/github-pages/">guide</a> to use Jekyll setup your own website</p>
+Then you can see the result….</p>
 
