@@ -51,9 +51,9 @@ communication between VMs and VM-host.)</p>
 <p>mkdir /home/yourname/GO</p>
 <p>- restart master</p>
 <p>7. share the folder /home/yourname/GO on master</p>
-<p>1) add below line in /etc/export</p>
+<p>1) add below line in /etc/exports</p>
 <p>/home/yourname/GO ipaddress of your workers(rw)</p>
-<p>2) sudo exports -r</p>
+<p>2) service nfs-kernel-server restart</p>
 <p>8. mount the folder on master to the workers, on workers, execute</p>
 <p>mkdir /home/yourname/GO</p>
 <p>mount -t nfs ipaddressOfmaster:/home/yourname/GO /home/yourname/GO</p>
