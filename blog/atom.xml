@@ -10,7 +10,7 @@ layout: feed
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://norahuang.github.io/blog</id>
  <author>
-   <name>Nora Huang</name>
+   <name>Huihui Nora Huang</name>
    <email>norahuangsun@gmail.com</email>
  </author>
 
