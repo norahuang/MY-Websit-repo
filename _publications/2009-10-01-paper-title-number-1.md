@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Atlantis: Improving the Analysis and Visualization of Large Assembly Execution Traces"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-09-01-Atlantis
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2017-09-01
+venue: 'The International Conference on Software Maintenance and Evolution (ICSME) 2017'
+paperurl: 'http://ieeexplore.ieee.org/document/8094468/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This is a tool demo paper. The tool we present in this paper, Atlantis, is our trace analysis environment for multi-gigabyte assembly traces, and it contains a number of new features that make it particularly successful in meeting this goal. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://ieeexplore.ieee.org/document/8094468/)
