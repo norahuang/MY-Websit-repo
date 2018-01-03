@@ -1573,7 +1573,7 @@ $.magnificPopup.registerModule('zoom', {
 /*>>iframe*/
 
 var IFRAME_NS = 'iframe',
-	_emptyPage = '//about:blank',
+	_emptyPage = '//cv:blank',
 
 	_fixIframeBugs = function(isShowing) {
 		if(mfp.currTemplate[IFRAME_NS]) {
