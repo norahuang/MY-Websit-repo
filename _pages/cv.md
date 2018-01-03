@@ -60,9 +60,3 @@ Skills
 * Expertise: TCP Congestion Control, Image processing, Voice processing
 * Other: J2EE, EJB, Spring, Restful, SSL, UDP, RTP/RTCP, TCP/IP
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
