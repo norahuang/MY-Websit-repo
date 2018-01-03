@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 author_profile: true
 redirect_from:
-  - /
+  - /about
 ---
 
 I am a master’s student of computer science at the University of Victoria. My research topic is related to security engineering.
