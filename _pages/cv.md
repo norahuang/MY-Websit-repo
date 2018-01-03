@@ -55,34 +55,10 @@ Work experience
   
 Skills
 ======
-* Language
-  * JAVA
-  * C/C++
-  * Python
-  * GO
-  * Assembly
-  * Shell script
-  * Perl
-  * LaTeX
-* Database
-  * PostgreSQL
-  * SQLite
-  * Oracle
-  * MongoDB
-* Expertise 
-  * TCP Congestion Control Algorithms
-  * Image processing Algorithms
-  * Voice processing Algorithms
-  * Software Security Engineering
-* Other
-  * J2EE
-  * EJB
-  * Spring
-  * Restful
-  * SSL
-  * UDP
-  * RTP/RTCP
-  * TCP/IP
+* Language: JAVA, C/C++, Python, GO, Assembly, Shell script, Perl, LaTeX
+* Database: PostgreSQL, SQLite, Oracle, MongoDB
+* Expertise: TCP Congestion Control, Image processing, Voice processing
+* Other: J2EE, EJB, Spring, Restful, SSL, UDP, RTP/RTCP, TCP/IP
 
 
 Publications
