@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * M.S. IN COMPUTER SCIENCE, University of Victoria, Canada, 2018
 * M.S. IN ELECTRONIC ENGINEERING, Nanjing University of Aeronautics and Astronautics Nanjing, China, 2006
 * B.S. IN ELECTRONIC ENGINEERING, Nanjing University of Aeronautics and Astronautics Nanjing, China, 2003
 
 Extracurricular
-======
+------
 * Geekweek IV: Hackathon for cybersecurity, Canada 
   * APPLICATION DEVELOPER, Oct. 19-27, 2017
     * Implemented an Electron based application for cybersecurity data visualization
@@ -27,7 +27,7 @@ Extracurricular
 
 
 Work experience
-======
+------
 * Ericsson, China
   * SOFTWARE MAINTENANCE ENGINEER, Apr. 2015 - Apr. 2016
     * Product information: Multimedia Proxy is a traffic optimization gateway. Its main features include content compression and traffic control. This product is widely deployed in Telecom mobile network all over the world, such as Verizon in U.S and CMCC in China.
@@ -54,7 +54,7 @@ Work experience
     * Integrated G711, G723, G729 AMR/AMRWB transcodecs algorithms on TI DSP(C/C++)
   
 Skills
-======
+------
 * Language: JAVA, C/C++, Python, GO, Assembly, Shell script, Perl, LaTeX
 * Database: PostgreSQL, SQLite, Oracle, MongoDB
 * Expertise: TCP Congestion Control, Image processing, Voice processing
