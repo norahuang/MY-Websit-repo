@@ -16,7 +16,6 @@ analysis. Atlantis aims to help security engineers detect software vulnerabiliti
 I worked in the Telecom companies as a software developer for years before I went back to school for my master’s
 degree. The working experience in the industry gave me not only the skills as a software developer but also the insight of customer needs and requirements.
 
-======
 * 5+ years of Telecom embedded software development experience
 * 3+ years Java application development experience
 * 1+ year Eclipse Plug-in development experience
