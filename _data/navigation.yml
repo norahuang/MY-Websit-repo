@@ -9,9 +9,11 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Literature Review"
+    url: /literature_review/  
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Literature Review"
-    url: /literature_review/
+
 
