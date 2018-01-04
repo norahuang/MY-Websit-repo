@@ -196,6 +196,17 @@ defaults:
       comments: true
       share: true
       related: true
+  # _reviews
+  - scope:
+      path: ""
+      type: reviews
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
